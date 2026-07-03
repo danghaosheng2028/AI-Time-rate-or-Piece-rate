@@ -1,7 +1,10 @@
 # From Hours to Output: Risk‑Sharing, Incentives, and Contract Transformation under AI‑Augmented Production
 
 Lucas Dang  
-RCF Experimental School, Beijing  
+RCF Experimental School, Beijing  git add .
+git commit -m "update"
+git push
+
 July 2026
 
 ---
