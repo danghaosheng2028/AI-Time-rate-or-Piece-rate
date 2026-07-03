@@ -2,7 +2,6 @@
 
 Lucas Dang  
 RCF Experimental School, Beijing  
-Supervised by Prof. David Woodruff (Carnegie Mellon University)  
 July 2026
 
 ---
